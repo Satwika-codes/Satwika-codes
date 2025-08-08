@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Satwika-codes/Satwika-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DSA Solutions
 
-Here are some ideas to get you started:
+This repository contains my daily practice solutions for Data Structures and Algorithms problems solved mainly in C++ and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Structure
+
+- Solutions are organized by topic folders (e.g., Arrays, Strings, Trees).  
+- Each solution file is named clearly with the problem name or number.  
+
+## Goal
+
+Build a strong foundation in DSA by consistent daily problem solving.  
+
+---
+
+Feel free to explore my solutions and track my progress!
