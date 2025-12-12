@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-11-blue?logo=c%2B%2B&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/YourUsername/DSA-Daily-Tracker?color=green)
+![Last Commit](https://img.shields.io/github/last-commit/Satwika-codes/DSA-Daily-Tracker?color=green)
 
 
 Welcome to my Data Structures & Algorithms (DSA) Daily Tracker repository!
