@@ -1,8 +1,8 @@
 Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satwika-codes&show_icons=true&theme=radical)
-![Top Languages](https://img.shields.io/github/languages/top/Satwika-codes?color=blue)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Satwika-codes&theme=dark)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-11-blue?logo=c%2B%2B&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/YourUsername/DSA-Daily-Tracker?color=green)
 
 
 Welcome to my Data Structures & Algorithms (DSA) Daily Tracker repository!
