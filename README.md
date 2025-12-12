@@ -13,21 +13,22 @@ The repository is organized for easy navigation and topic-wise learning:
 DSA-Daily-Tracker/
 │
 ├── DSA with Python / LeetCode
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── LinkedList/
-│ ├── Trees/
-│ ├── Graphs/
-│ ├── Hashmap/
-│ ├── Sorting/
-│ ├── Dynamic Programming/
-│ └── ...
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── LinkedList/
+│   ├── Trees/
+│   ├── Graphs/
+│   ├── Hashmap/
+│   ├── Sorting/
+│   ├── Dynamic Programming/
+│   └── ...
 │
 ├── DSA with C++/
-│ └── (upcoming)
+│   └── (upcoming)
 │
 └── Projects/
-└── (upcoming)
+    └── (upcoming)
+
 
 Each folder contains solution files **clearly named** after the problem solved.  
 
@@ -41,7 +42,7 @@ Each folder contains solution files **clearly named** after the problem solved.
 ---
 
 ## 📊 Daily Progress Log
-|-----------------|----------------------------------------------|--------------|------------|
+
 | **Date**        | **Problem Name**                             | **Language** | **Status** |
 |-----------------|----------------------------------------------|--------------|------------|
 | 12 Dec 2025     | Assign Cookies                               | Python       | ✔          |
@@ -92,7 +93,8 @@ Each folder contains solution files **clearly named** after the problem solved.
 | 01 Nov 2025     | Count Binary Substrings                      | Python       | ✔          |
 | 01 Nov 2025     | Interleaving Strings                         | Python       | ✔          |
 | ...             | ...                                          | ...          | ...         |
-|-----------------|----------------------------------------------|--------------|-------------|
+
+
 **Note:** This table is a curated snapshot — full daily progress is in the repository.  
 **Languages:** Python and C++
 
