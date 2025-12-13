@@ -17,12 +17,13 @@ DSA-Daily-Tracker/
 ├── DSA with Python / LeetCode
 │   ├── Arrays/
 │   ├── Strings/
-│   ├── LinkedList/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── Hashmap/
-│   ├── Sorting/
-│   ├── Dynamic Programming/
+│   ├── Hashmaps/
+│   ├── Two Pointers(upcoming)/
+│   ├── Sliding window(upcoming)/
+│   ├── Linked Lists(upcoming)/
+|   |___Stacks(upcoming)/
+│   ├── Sorting(upcoming)/
+│   ├── Dynamic Programming(upcoming)/
 │   └── ...
 │
 ├── DSA with C++/
