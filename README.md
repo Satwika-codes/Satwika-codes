@@ -101,7 +101,7 @@ Note: This is a curated snapshot — the full daily progress list is available i
 
 Consistency: Daily problem solving strengthens coding habits
 
-DSA Depth: Easy → Medium → Hard, including Leetcode Hard
+Problem Difficulty Coverage: Easy → Medium → Hard, including Leetcode Hard
 
 Interview Preparation: High-frequency patterns and core concepts
 
